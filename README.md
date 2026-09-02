@@ -5,7 +5,7 @@
 </div>
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffredov4xyz&count_bg=%2338BDF8&title_bg=%23111111&title=PROFILE%20VIEWS&edge_flat=true)
+![Profile Views](https://komarev.com/ghpvc/?username=fredov4xyz&style=flat-square&color=38bdf8&label=PROFILE%20VIEWS)
 
 
 ---
