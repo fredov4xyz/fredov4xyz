@@ -5,7 +5,7 @@
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prata-del&style=flat-square&color=000000&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=fredov4xyz&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 
 ---
@@ -23,7 +23,7 @@
 
 <pre>
 ◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Brazil 🇧🇷
+◈  Origin    →  Saudi 🇸🇦
 </pre>
 
 </div>
@@ -55,13 +55,23 @@
 
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
-
+![Arduino](https://img.shields.io/badge/Arduino-111?style=for-the-badge&logo=arduino&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/Blender-111?style=for-the-badge&logo=blender&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![Photoshop](https://img.shields.io/badge/Photoshop-111?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=FFFFFF)
 </div>
 
 
