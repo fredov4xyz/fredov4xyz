@@ -1,16 +1,73 @@
-<h1 align="center">yo im fredo</h1>
-<h3 align="center">i love larp</h3>
+<div align="center">
+  <h1>yo, I'm fredo.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fredov4xyz&label=Profile%20views&color=0e75b6&style=flat" alt="fredov4xyz" /> </p>
+  <p>
+    <strong>Developer · tinkerer · LARP enthusiast</strong>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  <p>
+    I like building useful things, experimenting with new ideas,
+    and occasionally spending an unreasonable amount of time on fictional worlds.
+  </p>
+
+  <p>
+    <a href="https://github.com/fredov4xyz">
+      <img
+        src="https://komarev.com/ghpvc/?username=fredov4xyz&label=Profile%20views&color=5865f2&style=flat"
+        alt="Profile views"
+      />
+    </a>
+  </p>
+</div>
+
+## What I work with
+
+### Languages and Runtime
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,nodejs,python,sqlite" alt="Bash, Node.js, Python, and SQLite" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Development and Infrastructure
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredov4xyz&show_icons=true&locale=en&layout=compact" alt="fredov4xyz" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,gcp,arduino" alt="Git, Docker, Linux, Google Cloud, and Arduino" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredov4xyz&show_icons=true&locale=en" alt="fredov4xyz" /></p>
+### Databases and Backend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres" alt="Firebase, MongoDB, MySQL, and PostgreSQL" />
+</p>
+
+### Design and Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,figma,blender,photoshop" alt="React, Figma, Blender, and Photoshop" />
+</p>
+
+## GitHub at a glance
+
+<div align="center">
+  <a href="https://github.com/fredov4xyz">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=fredov4xyz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+      alt="Fredo's GitHub statistics"
+    />
+  </a>
+
+  <a href="https://github.com/fredov4xyz">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredov4xyz&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+      alt="Fredo's most used languages"
+    />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Building things, learning constantly, and probably overcomplicating something.</sub>
+</div>
